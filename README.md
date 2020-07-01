@@ -4,3 +4,4 @@ This project consists of basic git commands
 ## Purpose
 ## Deployment
 ## How to contribute
+### Copyright
