@@ -3,3 +3,7 @@ This is second line in my git file
 
 comparing two files
 rebasing example by  using feature branch and master branch rebasing changes from master to feature branch.
+
+Stashing example where stash is used like we are working on one file and then  we get to know we have another higher priority task to complete we do git stash that will  not stage or commit any changes it will kept on hold and by using stash it shows our status wd clean , we go into the file with higher priority make changes commit it and then if we want to keep working on the file that we stashed we use git stash apply that will bring back our modified file in staging area and we can keep working on it .
+
+So this was a example of Stashing in GIT.
