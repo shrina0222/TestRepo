@@ -6,4 +6,5 @@ Project focus on automatic merges in GIT
 ## Deployment
 Adding a line for rebasing example
 ## How to contribute
+by using stsh example
 ### Copyright
